@@ -1,0 +1,10 @@
+./media/animation/spider.b3d
+./media/animation/spider.png
+0.05
+0.05
+0.05
+0
+0
+0
+0
+100

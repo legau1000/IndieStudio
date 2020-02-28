@@ -1,0 +1,10 @@
+.vscode
+*.o
+*.gcna
+*.gcdo
+Indie
+vgcore*
+CMakeFiles/
+bomberman
+Makefile
+CMakeCache.txt

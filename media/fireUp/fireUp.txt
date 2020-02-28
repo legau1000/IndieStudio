@@ -1,0 +1,10 @@
+./media/fireUp/crate1.obj
+./media/fireUp/fireUp.png
+0.1
+0.1
+0.1
+0
+0
+0
+0
+0

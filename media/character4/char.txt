@@ -1,0 +1,10 @@
+./media/character4/char.b3d
+./media/character4/char.jpg
+0.2
+0.2
+0.2
+0
+150
+0
+146
+206

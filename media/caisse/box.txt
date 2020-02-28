@@ -1,0 +1,10 @@
+./media/caisse/box1.obj
+./media/caisse/box1.jpg
+0.07
+0.07
+0.07
+0
+0
+0
+0
+0

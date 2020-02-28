@@ -1,0 +1,10 @@
+./media/rockWall/box1.obj
+./media/rockWall/rock.png
+0.07
+0.07
+0.07
+0
+0
+0
+0
+0

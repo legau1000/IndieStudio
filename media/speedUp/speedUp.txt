@@ -1,0 +1,10 @@
+./media/speedUp/crate1.obj
+./media/speedUp/speedUp.png
+0.1
+0.1
+0.1
+0
+0
+0
+0
+0

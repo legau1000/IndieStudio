@@ -1,0 +1,10 @@
+./media/bombe/egg.obj
+./media/bombe/egg.png
+2
+2
+2
+0
+0
+0
+0
+0

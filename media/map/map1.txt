@@ -1,0 +1,13 @@
+XXXXXXXXXXXXXXXXXXX
+X#################X
+X #R###     ###R# X
+X ####RRR RRR#### X
+X###R###R1R###R###X
+X#R## RRRRRRR ##R#X
+X####  4RRR2  ####X
+X#R## RRRRRRR ##R#X
+X#######R3R#######X
+XR####RRR RRR####RX
+X #####      #### X
+X ####R######R### X
+XXXXXXXXXXXXXXXXXXX

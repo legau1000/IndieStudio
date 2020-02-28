@@ -1,0 +1,10 @@
+./media/wallPass/crate1.obj
+./media/wallPass/ghost.png
+0.1
+0.1
+0.1
+0
+0
+0
+0
+0

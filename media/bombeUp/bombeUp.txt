@@ -1,0 +1,10 @@
+./media/bombeUp/crate1.obj
+./media/bombeUp/bombeUp.png
+0.1
+0.1
+0.1
+0
+0
+0
+0
+0
